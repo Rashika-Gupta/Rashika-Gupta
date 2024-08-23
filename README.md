@@ -1,7 +1,6 @@
-## Hi there 👋
 # 👩‍🔬 Rashika Gupta - Data Scientist & Nuclear Physicist
 
-Welcome to my GitHub portfolio! I am Rashika Gupta, a passionate data scientist with a PhD in Nuclear Physics. My work spans across advanced simulations, deep learning, and interdisciplinary applications in healthcare, clean energy, and more. Below you'll find a curated selection of my projects, my PhD thesis, and contributions that reflect my journey and expertise.
+Welcome to my GitHub portfolio! I am Rashika Gupta, a passionate data scientist with a PhD in Nuclear Physics. My work spans advanced simulations, deep learning, and interdisciplinary applications in healthcare, clean energy, and more. Below you'll find a curated selection of my projects, my PhD thesis, and contributions that reflect my journey and expertise.
 
 ---
 
@@ -22,32 +21,57 @@ _Read the full thesis [here](link-to-your-thesis)._
 [![View Project](https://img.shields.io/badge/view-project-brightgreen)](https://github.com/Rashika-Gupta/Project-PINN)
 
 - **Overview**: Developed and applied Physics-Informed Neural Networks (PINNs) to model complex fluid dynamics scenarios. This project integrates deep learning with physical laws to enhance simulation accuracy.
-- **Highlights**:
-  - Implemented a custom PINN architecture to solve Navier-Stokes equations.
-  - Visualized fluid flow fields and compared results with traditional CFD methods.
-- **Technologies**: Python, PyTorch, Matplotlib
+- **Status**: ![Build Status](https://img.shields.io/badge/status-completed-green)
+
+- **Models Used**: Custom Physics-Informed Neural Network (PINN) architecture.
+- **Results**:
+  - Successfully solved the Navier-Stokes equations.
+  - Achieved high accuracy in predicting fluid flow fields compared to traditional CFD methods.
+- **Technologies**:
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+  - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?logo=matplotlib&logoColor=white)
+  - ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 
 ![Fluid Dynamics](path_to_fluid_dynamics_plot.png)
+
+---
 
 ### 2. DeepONet for Magnetic Field Analysis
 [![View Project](https://img.shields.io/badge/view-project-brightgreen)](https://github.com/Rashika-Gupta/Project-DeepONet-MagneticField)
 
 - **Overview**: Leveraged DeepONet to analyze and predict magnetic field distributions using provided datasets. This project demonstrates the application of deep operator networks in complex physical systems.
-- **Highlights**:
-  - Processed and visualized 3D magnetic field data.
-  - Compared DeepONet predictions with experimental measurements.
-- **Technologies**: Python, TensorFlow, Pandas, Matplotlib
+- **Status**: ![Build Status](https://img.shields.io/badge/status-in--progress-yellow)
+
+- **Models Used**: DeepONet architecture for regression analysis.
+- **Results**:
+  - Achieved accurate predictions of magnetic field distributions.
+  - Results showed significant improvement over baseline models in capturing field variations.
+- **Technologies**:
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+  - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?logo=matplotlib&logoColor=white)
 
 ![Magnetic Field](path_to_magnetic_field_plot.png)
+
+---
 
 ### 3. Geant4 Simulations of Electron Backscattering
 [![View Project](https://img.shields.io/badge/view-project-brightgreen)](https://github.com/Rashika-Gupta/Project-Geant4-Electron-Backscatter)
 
 - **Overview**: This project involves the simulation of electron backscattering and energy deposition using Geant4. The insights gained contribute to improved detector design and understanding of particle interactions.
-- **Highlights**:
-  - Simulated energy deposition profiles at varying depths.
-  - Analyzed the impact of different materials on backscattering efficiency.
-- **Technologies**: C++, Geant4, ROOT, Python
+- **Status**: ![Build Status](https://img.shields.io/badge/status-completed-green)
+
+- **Models Used**: Geant4 simulation models, ROOT for data analysis.
+- **Results**:
+  - Successfully simulated energy deposition profiles at varying depths.
+  - Analysis of material impact on backscattering efficiency led to optimized detector designs.
+- **Technologies**:
+  - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+  - ![Geant4](https://img.shields.io/badge/-Geant4-blue)
+  - ![ROOT](https://img.shields.io/badge/-ROOT-ff7f0e)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ![Electron Backscattering](path_to_backscatter_plot.png)
 
@@ -80,18 +104,3 @@ Feel free to reach out if you're interested in collaborating, discussing researc
 ---
 
 Thank you for visiting my GitHub portfolio! 😊
-
-<!--
-**Rashika-Gupta/Rashika-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
