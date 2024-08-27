@@ -10,7 +10,7 @@ Fav quote:
 
 ---
 
-## PhD Thesis
+##  🎓 PhD Thesis
 
 **Title**: [Simulations of Electron Detection Systematic Errors for a UCNA+ Experiment](link-to-your-thesis)
 
@@ -23,7 +23,7 @@ _Code [here]()._
 
 ---
 
-## Projects
+## 🧠 Projects
 
 ### 1. Physics-Informed Neural Networks for Fluid Dynamics
 [![View Project](https://img.shields.io/badge/view-project-brightgreen)](https://github.com/Rashika-Gupta/Project-PINN)
@@ -81,7 +81,7 @@ _Code [here]()._
 
 ---
 
-## Certifications & Courses
+## 📜 Certifications & Courses
 - **MLOps & Cloud Computing**: Completed certifications in MLOps, AWS, and related cloud technologies.
 - **Deep Learning Specialization**: Advanced courses in deep learning, focusing on neural networks, optimization techniques, and unsupervised learning.
 
@@ -89,7 +89,7 @@ _View full list of certifications [here](link-to-certifications-page)._
 
 ---
 
-## Get in Touch
+## 📫 Get in Touch
 
 Feel free to reach out if you're interested in collaborating, discussing research, or exploring new opportunities!
 
