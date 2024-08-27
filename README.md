@@ -1,17 +1,20 @@
-# 👩‍🔬 Rashika Gupta - Data Scientist & Nuclear Physicist
+# 👩‍🔬 Rashika Gupta - Data Scientist & Nuclear Physicist 
 
-Welcome to my GitHub portfolio! I am Rashika Gupta, a passionate data scientist with a PhD in Nuclear Physics. My work spans advanced simulations, deep learning, and interdisciplinary applications in healthcare, clean energy, and more. Below you'll find a curated selection of my projects, my PhD thesis, and contributions that reflect my journey and expertise.
+Welcome to my GitHub portfolio! I am Rashika Gupta, a data scientist and a Nuclear Physicist. Currently, busy wrapping up my thesis to get to another milestone of  "Dr. ". My work spans advanced simulations, deep learning, and interdisciplinary applications in healthcare, clean energy, and more. Below you'll find a curated selection of my projects, my PhD thesis, and contributions that reflect my journey and expertise. Fav quote:
 
+"A theory that you can't explain to a bartender is probably no damn good." - Rutherford
 ---
 
 ## 🎓 PhD Thesis
 
-**Title**: [Exploring Electron Backscattering and Energy Deposition in Detectors](link-to-your-thesis)
+**Title**: [Simulations of Electron Detection Systematic Errors for a UCNA+ Experiment](link-to-your-thesis)
 
-- **Abstract**: A detailed exploration of electron backscattering measurements using PEREKO III, with insights into the methodology, results, and implications for future research.
-- **Keywords**: Electron Backscattering, Geant4 Simulations, Detector Physics, Data Analysis
+- **Abstract**: The UCNA+ experiment at Los Alamos National Laboratory is an upgrade to the original UCNA experiment, aiming to measure the neutron beta asymmetry A0 with a precision of 0.2% or better, nuclear structure-independent value for the CKM matrix element Vud. In this study, we present results from **GEANT4 simulations of the UCNA+** experimental setup, focusing on necessary backscattering corrections. 
+- **Keywords**: Electron Backscattering, Geant4 Simulations, Detector Physics, Data Analysis, UCNA+, MCMC
 
-_Read the full thesis [here](link-to-your-thesis)._
+_Read the full thesis [here](https://github.com/Rashika-Gupta/thesis)._
+ _Conference Persentation [here](https://github.com/Rashika-Gupta/conference-presentations/tree/main)._
+_Code [here]()._
 
 ---
 
@@ -27,11 +30,7 @@ _Read the full thesis [here](link-to-your-thesis)._
 - **Results**:
   - Successfully solved the Navier-Stokes equations.
   - Achieved high accuracy in predicting fluid flow fields compared to traditional CFD methods.
-- **Technologies**:
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-  - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?logo=matplotlib&logoColor=white)
-  - ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+- **Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?logo=matplotlib&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 
 ![Fluid Dynamics](path_to_fluid_dynamics_plot.png)
 
