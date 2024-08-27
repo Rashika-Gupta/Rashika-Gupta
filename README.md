@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! I am Rashika Gupta, a data scientist and Nuclear Physicist. Currently, I am busy wrapping up my thesis to achieve the milestone of "Dr." My work spans advanced simulations, deep learning, and interdisciplinary applications in healthcare, clean energy, and more. Below you'll find a curated selection of my projects, my PhD thesis, and contributions that reflect my journey and expertise.
 
-**Jump to:** [PhD Thesis](#-phd-thesis) | [Projects](#-projects) | [Certifications](#-certifications--courses)
+**Jump to:** [PhD Thesis](#phd-thesis) | [Projects](#projects) | [Certifications](#certifications--courses)
 
 Fav quote:
 
