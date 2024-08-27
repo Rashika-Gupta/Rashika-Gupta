@@ -1,8 +1,13 @@
 # 👩‍🔬 Rashika Gupta - Data Scientist & Nuclear Physicist 
 
-Welcome to my GitHub portfolio! I am Rashika Gupta, a data scientist and a Nuclear Physicist. Currently, busy wrapping up my thesis to get to another milestone of  "Dr. ". My work spans advanced simulations, deep learning, and interdisciplinary applications in healthcare, clean energy, and more. Below you'll find a curated selection of my projects, my PhD thesis, and contributions that reflect my journey and expertise. Fav quote:
+Welcome to my GitHub portfolio! I am Rashika Gupta, a data scientist and Nuclear Physicist. Currently, I am busy wrapping up my thesis to achieve the milestone of "Dr." My work spans advanced simulations, deep learning, and interdisciplinary applications in healthcare, clean energy, and more. Below you'll find a curated selection of my projects, my PhD thesis, and contributions that reflect my journey and expertise.
+
+**Jump to:** [PhD Thesis](#-phd-thesis) | [Projects](#-projects) | [Certifications](#-certifications--courses)
+
+Fav quote:
 
 "A theory that you can't explain to a bartender is probably no damn good." - Rutherford
+
 ---
 
 ## 🎓 PhD Thesis
@@ -12,8 +17,8 @@ Welcome to my GitHub portfolio! I am Rashika Gupta, a data scientist and a Nucle
 - **Abstract**: The UCNA+ experiment at Los Alamos National Laboratory is an upgrade to the original UCNA experiment, aiming to measure the neutron beta asymmetry A0 with a precision of 0.2% or better, nuclear structure-independent value for the CKM matrix element Vud. In this study, we present results from **GEANT4 simulations of the UCNA+** experimental setup, focusing on necessary backscattering corrections. 
 - **Keywords**: Electron Backscattering, Geant4 Simulations, Detector Physics, Data Analysis, UCNA+, MCMC
 
-_Read the full thesis [here](https://github.com/Rashika-Gupta/thesis)._
- _Conference Persentation [here](https://github.com/Rashika-Gupta/conference-presentations/tree/main)._
+_Read the full thesis [here](https://github.com/Rashika-Gupta/thesis)._  
+_Conference Presentation [here](https://github.com/Rashika-Gupta/conference-presentations/tree/main)._  
 _Code [here]()._
 
 ---
@@ -46,11 +51,7 @@ _Code [here]()._
 - **Results**:
   - Achieved accurate predictions of magnetic field distributions.
   - Results showed significant improvement over baseline models in capturing field variations.
-- **Technologies**:
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-  - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?logo=matplotlib&logoColor=white)
+- **Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?logo=matplotlib&logoColor=white)
 
 ![Magnetic Field](path_to_magnetic_field_plot.png)
 
@@ -66,11 +67,7 @@ _Code [here]()._
 - **Results**:
   - Successfully simulated energy deposition profiles at varying depths.
   - Analysis of material impact on backscattering efficiency led to optimized detector designs.
-- **Technologies**:
-  - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-  - ![Geant4](https://img.shields.io/badge/-Geant4-blue)
-  - ![ROOT](https://img.shields.io/badge/-ROOT-ff7f0e)
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- **Technologies**: ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Geant4](https://img.shields.io/badge/-Geant4-blue) ![ROOT](https://img.shields.io/badge/-ROOT-ff7f0e) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ![Electron Backscattering](path_to_backscatter_plot.png)
 
