@@ -52,7 +52,7 @@ _Code [here]()._
   - Results showed significant improvement over baseline models in capturing field variations.
 - **Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?logo=matplotlib&logoColor=white)
 
-![Magnetic Field](path_to_magnetic_field_plot.png)
+![Training images](path_to_magnetic_field_plot.png)
 
 ---
 
