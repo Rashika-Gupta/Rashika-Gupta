@@ -41,15 +41,14 @@ _Code [here]()._
 
 ---
 
-### 2. DeepONet for Magnetic Field Analysis
-[![View Project](https://img.shields.io/badge/view-project-brightgreen)](https://github.com/Rashika-Gupta/Project-DeepONet-MagneticField)
+### 2. Melanoma Detection using Computer Vision models
+[![View Project](https://img.shields.io/badge/view-project-brightgreen)](https://github.com/Rashika-Gupta/melanoma-deep-learning)
 
-- **Overview**: Leveraged DeepONet to analyze and predict magnetic field distributions using provided datasets. This project demonstrates the application of deep operator networks in complex physical systems.
+- **Overview**: Leveraged on pretrained models to learn from skin cancer images to predict if it was melanoma.
 - **Status**: ![Build Status](https://img.shields.io/badge/status-in--progress-yellow)
 
-- **Models Used**: DeepONet architecture for regression analysis.
+- **Models Used**: SeResNext model.
 - **Results**:
-  - Achieved accurate predictions of magnetic field distributions.
   - Results showed significant improvement over baseline models in capturing field variations.
 - **Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?logo=matplotlib&logoColor=white)
 
