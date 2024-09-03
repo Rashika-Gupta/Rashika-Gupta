@@ -50,7 +50,13 @@ _Code [here]()._
 - **Models Used**: SeResNext model.
 - **Results**:
   - Results showed significant improvement over baseline models in capturing field variations.
-- **Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?logo=matplotlib&logoColor=white)
+- **Technologies**: 
+   [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+   [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+   [![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+   [![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+   [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+   [![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 ![Training images](path_to_magnetic_field_plot.png)
 
