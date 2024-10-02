@@ -25,23 +25,7 @@ _Code [here](https://github.com/Rashika-Gupta/Reseach/tree/main/foilBothSide-Dea
 
 ## 🧠 Projects
 
-### 1. Physics-Informed Neural Networks for Fluid Dynamics
-[![View Project](https://img.shields.io/badge/view-project-brightgreen)](https://github.com/Rashika-Gupta/Project-PINN)
-
-- **Overview**: Developed and applied Physics-Informed Neural Networks (PINNs) to model complex fluid dynamics scenarios. This project integrates deep learning with physical laws to enhance simulation accuracy.
-- **Status**: ![Build Status](https://img.shields.io/badge/status-completed-green)
-
-- **Models Used**: Custom Physics-Informed Neural Network (PINN) architecture.
-- **Results**:
-  - Successfully solved the Navier-Stokes equations.
-  - Achieved high accuracy in predicting fluid flow fields compared to traditional CFD methods.
-- **Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?logo=matplotlib&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-
-![Fluid Dynamics](path_to_fluid_dynamics_plot.png)
-
----
-
-### 2. Melanoma Detection using Computer Vision models
+### 1. Melanoma Detection using Computer Vision models
 [![View Project](https://img.shields.io/badge/view-project-brightgreen)](https://github.com/Rashika-Gupta/melanoma-deep-learning)
 
 - **Overview**: Leveraged on pretrained models to learn from skin cancer images to predict if it was melanoma.
@@ -60,6 +44,22 @@ _Code [here](https://github.com/Rashika-Gupta/Reseach/tree/main/foilBothSide-Dea
 
 ![Training images](path_to_magnetic_field_plot.png)
 
+
+### 2. Physics-Informed Neural Networks for Fluid Dynamics
+[![View Project](https://img.shields.io/badge/view-project-brightgreen)](https://github.com/Rashika-Gupta/Project-PINN)
+
+- **Overview**: Developed and applied Physics-Informed Neural Networks (PINNs) to model complex fluid dynamics scenarios. This project integrates deep learning with physical laws to enhance simulation accuracy.
+- **Status**: ![Build Status](https://img.shields.io/badge/status-completed-green)
+
+- **Models Used**: Custom Physics-Informed Neural Network (PINN) architecture.
+- **Results**:
+  - Successfully solved the Navier-Stokes equations.
+  - Achieved high accuracy in predicting fluid flow fields compared to traditional CFD methods.
+- **Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?logo=matplotlib&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+
+![Fluid Dynamics](path_to_fluid_dynamics_plot.png)
+
+---
 ---
 
 ### 3. Geant4 Simulations of Electron Backscattering
