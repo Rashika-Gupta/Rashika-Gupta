@@ -42,7 +42,7 @@ _Code [here](https://github.com/Rashika-Gupta/Reseach/tree/main/foilBothSide-Dea
    [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
    [![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
-![Training images]((https://private-user-images.githubusercontent.com/67435497/373052398-07151072-fb3f-4c49-b963-214d1560286e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5MDkzMzIsIm5iZiI6MTcyNzkwOTAzMiwicGF0aCI6Ii82NzQzNTQ5Ny8zNzMwNTIzOTgtMDcxNTEwNzItZmIzZi00YzQ5LWI5NjMtMjE0ZDE1NjAyODZlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAyVDIyNDM1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzMDkxZDU2MTBlZjllNzk3MDEwYTAyNDExOWFkNmNlMWM3YjNmODBiMDA0ZWI0NjIxMDA0ODBlYzBlNjc3YjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.S7rQfmWc71CslhvrW-9g263hzIGln2Aqp2iB_L02FeU))
+![Training images](https://github.com/Rashika-Gupta/melanoma-deep-learning/tree/main?tab=readme-ov-file)
 
 
 ### 2. Physics-Informed Neural Networks for Fluid Dynamics
