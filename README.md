@@ -84,7 +84,7 @@ SOMETHING IS COOKING !!!
 
 ### Mentor & Collaborator
 - **Mentorship**: Guided junior researchers in their projects, focusing on simulation techniques and deep learning applications.
-- **Collaboration**: Worked with interdisciplinary teams at Los Alamos National Lab, contributing to projects in healthcare and clean energy.
+- **Collaboration**: Worked with interdisciplinary teams at Los Alamos National Lab, contributing to precision experiment reducing back-scatering by 50%.
 
 ---
 
