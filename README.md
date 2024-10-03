@@ -32,8 +32,7 @@ _Code [here](https://github.com/Rashika-Gupta/Reseach/tree/main/foilBothSide-Dea
 - **Status**: ![Build Status](https://img.shields.io/badge/status-in--progress-yellow)
 
 - **Models Used**: SeResNext model.
-- **Results**:
-  - Results showed significant improvement over baseline models in capturing field variations.
+- **Results**: Results showed significant improvement over baseline models in capturing field variations.
 - **Technologies**: 
    [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
    [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
@@ -45,9 +44,15 @@ _Code [here](https://github.com/Rashika-Gupta/Reseach/tree/main/foilBothSide-Dea
 ![Training images](https://github.com/Rashika-Gupta/melanoma-deep-learning/tree/main?tab=readme-ov-file)
 
 ---
-SOMETHING IS COOKING !!!
+### 2. Multiclass Classification on Imbalanced Intel Dataset
+[![View Project](https://img.shields.io/badge/view-project-brightgreen)](https://github.com/Rashika-Gupta/multi-class-imbalanced-clf)
+  
+- **Overview**: Tackled a multiclass classification problem on a heavily imbalanced Intel dataset, using techniques like SMOTE and PCA for dimensionality reduction. The models, such as XGBoost and RandomForest, were optimized through hyperparameter tuning and cross-validation.
+- **Status**: ![Build Status](https://img.shields.io/badge/status-completed-green)
+- **Results**: Achieved an F1-score of 0.978 using XGBoost after feature reduction and oversampling techniques.
+
 ---
-### 2. Physics-Informed Neural Networks for Fluid Dynamics
+### 3. Physics-Informed Neural Networks for Fluid Dynamics
 [![View Project](https://img.shields.io/badge/view-project-brightgreen)](https://github.com/Rashika-Gupta/Project-PINN)
 
 - **Overview**: Developed and applied Physics-Informed Neural Networks (PINNs) to model complex fluid dynamics scenarios. This project integrates deep learning with physical laws to enhance simulation accuracy.
