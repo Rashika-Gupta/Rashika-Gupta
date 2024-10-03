@@ -100,9 +100,9 @@ _View full list of certifications [here](link-to-certifications-page)._
 
 Feel free to reach out if you're interested in collaborating, discussing research, or exploring new opportunities!
 
-- **Email**: rashika.gupta@example.com
-- **LinkedIn**: [Rashika Gupta](https://www.linkedin.com/in/rashika-gupta/)
-- **Website**: [www.rashikagupta.com](https://www.rashikagupta.com)
+- **Email**: rashikagupta3093@gmail.com
+- **LinkedIn**: [Rashika Gupta](https://www.linkedin.com/in/rashika-gupta-physics/)
+
 
 ---
 
