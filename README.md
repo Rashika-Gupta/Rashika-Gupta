@@ -92,7 +92,7 @@ SOMETHING IS COOKING !!!
 - **MLOps & Cloud Computing**: Completed certifications in MLOps, AWS, and related cloud technologies.
 - **Deep Learning Specialization**: Advanced courses in deep learning, focusing on neural networks, optimization techniques, and unsupervised learning.
 
-_View full list of certifications [here](link-to-certifications-page)._
+_View full list of certifications [here](https://github.com/Rashika-Gupta/link-to-certifications-page)._
 
 ---
 
